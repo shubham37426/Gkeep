@@ -1,0 +1,25 @@
+.bg{
+    background-color:#ffff66;
+}
+textarea{
+    background-color:##e6e6e6;
+    border: 2px solid;
+    border-radius: 5px;
+    font-size: large;
+    padding: 10px;
+    margin: 5px;
+    box-shadow: 5px 10px #888888;
+  }
+  button{
+      background-color: rgba(255, 255, 255, 0);
+      border: none;
+  }
+  .color{
+      background-color: #333333;
+
+  }
+  img{
+      height: 50px;
+      width: 50px;
+      border-radius: 5px;
+  }
