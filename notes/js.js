@@ -6,7 +6,7 @@ text.appendChild(node);
 div.appendChild(text);
 var element = document.getElementById("div1");
 element.appendChild(div);
-document.getElementsByTagName("textarea") .setAttribute("class", "box");
+
 }
 // under progress
 function del_1(){
