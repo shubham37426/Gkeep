@@ -1,13 +1,12 @@
 function create(){
 var div = document.createElement("div");
-// var btn = document.createElement("button");
-//div.appendChild(btn);
 var text = document.createElement("textarea");
 var node = document.createTextNode("");
 text.appendChild(node);
 div.appendChild(text);
 var element = document.getElementById("div1");
 element.appendChild(div);
+document.getElementsByTagName("div").setAttribute("class", "box");
 }
 // under progress
 function del_1(){
