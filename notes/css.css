@@ -9,7 +9,8 @@ textarea{
     padding: 10px;
     margin: 5px 50px ;
     box-shadow: 5px 10px #888888;
-    resize: none;
+    resize: vertical;
+    min-height: 300px;
     
   }
   button{
@@ -25,8 +26,4 @@ textarea{
       width: 60px;
       border-radius: 5px;
   }
-.box{
-min-height: 300px;
 
-
-}
