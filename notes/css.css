@@ -7,8 +7,9 @@ textarea{
     border-radius: 5px;
     font-size: large;
     padding: 10px;
-    margin: 5px;
+    margin: 5px 50px ;
     box-shadow: 5px 10px #888888;
+    resize: none;
   }
   button{
       background-color: rgba(255, 255, 255, 0);
@@ -19,7 +20,7 @@ textarea{
 
   }
   img{
-      height: 50px;
-      width: 50px;
+      height: 60px;
+      width: 60px;
       border-radius: 5px;
   }

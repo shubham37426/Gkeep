@@ -18,8 +18,3 @@ div.removeChild(child);
 function del(){
     document.getElementById("div1").innerHTML = "";
 }
-document.getElementById("create").onclick=create;
-document.getElementById("del").onclick=del;
-// onclick="create()"
-// onclick="del()"
-// for(vari=0;i<10;i++){
